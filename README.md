@@ -129,5 +129,5 @@ Section 4.7 of the thesis enumerates every limitation; Section 5.4 lists the fol
 ## Author
 
 Joshua Virgil John Lazar, 
-Department of Computing, Electrical and Applied Technology
+Department of Computing, Electrical and Applied Technology,
 Unitec Institute of Technology
